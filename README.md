@@ -83,7 +83,7 @@ project_perpustakaan/
 
 ## Video Demo
 
-Tonton demo aplikasi di YouTube: (isi link nanti)
+Tonton demo aplikasi di YouTube: https://youtu.be/tAAPgxaoHh0
 
 ## Pembuat
 
