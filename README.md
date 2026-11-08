@@ -73,7 +73,7 @@ project_perpustakaan/
 ![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Tambah Buku
 ![Tambah Buku](screenshots/tambah.png)
